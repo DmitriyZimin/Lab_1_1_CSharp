@@ -1,3 +1,3 @@
-# Labs_CSharp
+# Lab_1_CSharp
 
 Все верно.
